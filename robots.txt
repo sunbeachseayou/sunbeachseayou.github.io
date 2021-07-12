@@ -1,7 +1,3 @@
 User-agent: *
 
-<<<<<<< HEAD
 Sitemap: /sitemap.xml
-=======
-Sitemap: https://sunbeachseayou.github.io/sitemap.xml
->>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de

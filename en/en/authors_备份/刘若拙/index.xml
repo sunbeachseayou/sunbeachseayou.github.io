@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刘若拙 | 傅剑实验室主页</title>
-<<<<<<< HEAD
     <link>/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</link>
       <atom:link href="/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/index.xml" rel="self" type="application/rss+xml" />
     <description>刘若拙</description>
@@ -11,16 +10,6 @@
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>刘若拙</title>
       <link>/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</link>
-=======
-    <link>https://sunbeachseayou.github.io/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</link>
-      <atom:link href="https://sunbeachseayou.github.io/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/index.xml" rel="self" type="application/rss+xml" />
-    <description>刘若拙</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://sunbeachseayou.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>刘若拙</title>
-      <link>https://sunbeachseayou.github.io/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</link>
->>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     </image>
     
   </channel>
