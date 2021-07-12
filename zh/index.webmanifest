@@ -14,5 +14,9 @@
     "type": "image/png"
      }],
   "display": "standalone",
+<<<<<<< HEAD
+  "start_url": "/zh?utm_source=web_app_manifest"
+=======
   "start_url": "/zh/?utm_source=web_app_manifest"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
 }

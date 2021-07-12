@@ -1,108 +1,397 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<<<<<<< HEAD
+  <url>
+    <loc>/zh/authors/</loc>
+=======
   
   <url>
     <loc>https://sunbeachseayou.github.io/zh/authors/</loc>
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="/en/authors/"
+=======
                 href="https://sunbeachseayou.github.io/en/authors/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors/"
+                />
+  </url><url>
+    <loc>/zh/project/</loc>
+=======
                 href="https://sunbeachseayou.github.io/zh/authors/"
                 />
   </url>
   
   <url>
     <loc>https://sunbeachseayou.github.io/zh/project/</loc>
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="/en/project/"
+=======
                 href="https://sunbeachseayou.github.io/en/project/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/project/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%82%85%E5%89%91/</loc>
+=======
                 href="https://sunbeachseayou.github.io/zh/project/"
                 />
   </url>
   
   <url>
     <loc>https://sunbeachseayou.github.io/zh/author/%E5%82%85%E5%89%91/</loc>
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="/en/author/jian-fu/"
+=======
                 href="https://sunbeachseayou.github.io/en/author/jian-fu/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E5%82%85%E5%89%91/"
+                />
+  </url><url>
+    <loc>/zh/</loc>
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E5%82%85%E5%89%91/"
                 />
   </url>
   
   <url>
     <loc>https://sunbeachseayou.github.io/zh/</loc>
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="/en/"
+=======
                 href="https://sunbeachseayou.github.io/en/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/"
+                />
+  </url><url>
+    <loc>/zh/project/project3/</loc>
+=======
                 href="https://sunbeachseayou.github.io/zh/"
                 />
   </url>
   
   <url>
     <loc>https://sunbeachseayou.github.io/zh/project/project3/</loc>
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="/en/project/project3/"
+=======
                 href="https://sunbeachseayou.github.io/en/project/project3/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/project/project3/"
+                />
+  </url><url>
+    <loc>/zh/project/project2/</loc>
+=======
                 href="https://sunbeachseayou.github.io/zh/project/project3/"
                 />
   </url>
   
   <url>
     <loc>https://sunbeachseayou.github.io/zh/project/project2/</loc>
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
+                href="/en/project/project2/"
+=======
                 href="https://sunbeachseayou.github.io/en/project/project2/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/project/project2/"
+                />
+  </url><url>
+    <loc>/zh/project/project1/</loc>
+=======
                 href="https://sunbeachseayou.github.io/zh/project/project2/"
                 />
   </url>
   
   <url>
     <loc>https://sunbeachseayou.github.io/zh/project/project1/</loc>
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sunbeachseayou.github.io/en/project/project1/"
+<<<<<<< HEAD
+                href="/en/project/project1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+                href="/zh/project/project1/"
+                />
+  </url><url>
+    <loc>/zh/author/abdoulaye-fall/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/abdoulaye-fall/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/abdoulaye-fall/"
+                />
+  </url><url>
+    <loc>/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/categories/"
+                />
+  </url><url>
+    <loc>/zh/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/"
+                />
+  </url><url>
+    <loc>/zh/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publication_types/"
+                />
+  </url><url>
+    <loc>/zh/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publication/"
+                />
+  </url><url>
+    <loc>/zh/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/talk/"
+                />
+  </url><url>
+    <loc>/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/zhangyang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/zhangyang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/zhangyang/"
+                />
+  </url><url>
+    <loc>/zh/author/%E4%BD%99%E6%84%BF/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yuan-yu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E4%BD%99%E6%84%BF/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/admin/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%88%98%E5%81%A5%E8%B6%85/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/jianchao-liu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%88%98%E5%81%A5%E8%B6%85/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%88%98%E5%86%B0/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/bing-liu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%88%98%E5%86%B0/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%88%98%E8%8B%A5%E6%8B%99/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zhuoruo-liu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%88%98%E8%8B%A5%E6%8B%99/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/"
+=======
+                href="https://sunbeachseayou.github.io/en/project/project1/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%8D%AB%E7%B4%A0%E5%A8%9F/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/sujuan-wei/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%8D%AB%E7%B4%A0%E5%A8%9F/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%A4%8F%E8%81%AA/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/chong-xia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%A4%8F%E8%81%AA/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%AD%99%E4%BF%8A%E5%A8%81/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/junwei-sun/"
+=======
                 href="https://sunbeachseayou.github.io/zh/project/project1/"
                 />
   </url>
@@ -113,10 +402,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/abdoulaye-fall/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E5%AD%99%E4%BF%8A%E5%A8%81/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%AE%81%E5%8A%9B/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/li-ning/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/abdoulaye-fall/"
                 />
   </url>
@@ -127,10 +427,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/categories/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E5%AE%81%E5%8A%9B/"
+                />
+  </url><url>
+    <loc>/zh/author/%E5%BC%A0%E6%B4%8B/</loc>
+  </url><url>
+    <loc>/zh/author/%E6%9B%B9%E7%AD%96/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/ce-cao/"
+=======
                 href="https://sunbeachseayou.github.io/zh/categories/"
                 />
   </url>
@@ -141,10 +454,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/post/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9B%B9%E7%AD%96/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zheling-zeng/"
+=======
                 href="https://sunbeachseayou.github.io/zh/post/"
                 />
   </url>
@@ -155,10 +479,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/publication_types/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9B%BE%E4%BB%A4%E5%93%B2/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/"
+=======
                 href="https://sunbeachseayou.github.io/zh/publication_types/"
                 />
   </url>
@@ -169,10 +504,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/publication/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%8E%E5%85%B4%E5%BC%BA/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/qiangxing-li/"
+=======
                 href="https://sunbeachseayou.github.io/zh/publication/"
                 />
   </url>
@@ -183,10 +529,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/talk/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9D%8E%E5%85%B4%E5%BC%BA/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/"
+=======
                 href="https://sunbeachseayou.github.io/zh/talk/"
                 />
   </url>
@@ -197,10 +554,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/tags/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%8E%E5%AA%9B%E5%AA%9B/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yuanyuan-li/"
+=======
                 href="https://sunbeachseayou.github.io/zh/tags/"
                 />
   </url>
@@ -215,10 +583,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/yuan-yu/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9D%8E%E5%AA%9B%E5%AA%9B/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%8E%E7%BB%98%E8%8B%B1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/huiying-li/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E4%BD%99%E6%84%BF/"
                 />
   </url>
@@ -233,10 +612,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/jianchao-liu/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9D%8E%E7%BB%98%E8%8B%B1/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%8E%E8%81%AA/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/chong-li/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E5%88%98%E5%81%A5%E8%B6%85/"
                 />
   </url>
@@ -251,10 +641,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/bing-liu/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9D%8E%E8%81%AA/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E5%88%98%E5%86%B0/"
                 />
   </url>
@@ -265,10 +666,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/zhuoruo-liu/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%9C%E5%AE%87%E6%BE%84/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yucheng-du/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E5%88%98%E8%8B%A5%E6%8B%99/"
                 />
   </url>
@@ -283,10 +695,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/sujuan-wei/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9D%9C%E5%AE%87%E6%BE%84/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%9C%E7%91%BE%E7%91%9C/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/jinyu-du/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E5%8D%AB%E7%B4%A0%E5%A8%9F/"
                 />
   </url>
@@ -297,10 +720,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/chong-xia/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9D%9C%E7%91%BE%E7%91%9C/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E5%A4%8F%E8%81%AA/"
                 />
   </url>
@@ -311,10 +745,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/junwei-sun/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%A8%E5%B3%B0/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/feng-yang/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E5%AD%99%E4%BF%8A%E5%A8%81/"
                 />
   </url>
@@ -325,10 +770,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/li-ning/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%9D%A8%E5%B3%B0/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E5%AE%81%E5%8A%9B/"
                 />
   </url>
@@ -343,10 +799,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/ce-cao/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%A8%E7%AB%B9/</loc>
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9B%B9%E7%AD%96/"
                 />
   </url>
@@ -357,10 +826,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/zheling-zeng/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%A2%81%E8%8B%B1%E6%B3%A2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yingbo-liang/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9B%BE%E4%BB%A4%E5%93%B2/"
                 />
   </url>
@@ -375,10 +855,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/qiangxing-li/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%A2%81%E8%8B%B1%E6%B3%A2/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%BB%95%E7%BF%94/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/xiang-teng/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9D%8E%E5%85%B4%E5%BC%BA/"
                 />
   </url>
@@ -393,10 +884,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/yuanyuan-li/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E6%BB%95%E7%BF%94/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9D%8E%E5%AA%9B%E5%AA%9B/"
                 />
   </url>
@@ -407,10 +909,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/huiying-li/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%8E%8B%E5%BC%80%E5%85%83/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/kaiyuan-wang/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9D%8E%E7%BB%98%E8%8B%B1/"
                 />
   </url>
@@ -421,10 +934,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/chong-li/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E7%8E%8B%E5%BC%80%E5%85%83/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%8E%8B%E7%A5%BA%E4%B8%B0/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/qifeng-wang/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9D%8E%E8%81%AA/"
                 />
   </url>
@@ -439,10 +963,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/yucheng-du/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E7%8E%8B%E7%A5%BA%E4%B8%B0/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9D%9C%E5%AE%87%E6%BE%84/"
                 />
   </url>
@@ -453,10 +988,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/jinyu-du/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%8E%8B%E8%81%BF%E6%89%8D/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yucai-wang/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9D%9C%E7%91%BE%E7%91%9C/"
                 />
   </url>
@@ -471,10 +1017,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/feng-yang/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E7%8E%8B%E8%81%BF%E6%89%8D/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%9D%A8%E5%B3%B0/"
                 />
   </url>
@@ -489,10 +1046,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/yingbo-liang/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%8E%8B%E8%8A%B3%E9%BB%8E/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/fangli-wang/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%A2%81%E8%8B%B1%E6%B3%A2/"
                 />
   </url>
@@ -503,10 +1071,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/xiang-teng/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E7%8E%8B%E8%8A%B3%E9%BB%8E/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%8E%8B%E8%B6%85%E5%A5%87/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/chaoqi-wang/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E6%BB%95%E7%BF%94/"
                 />
   </url>
@@ -521,10 +1100,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/kaiyuan-wang/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E7%8E%8B%E8%B6%85%E5%A5%87/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E7%8E%8B%E5%BC%80%E5%85%83/"
                 />
   </url>
@@ -535,10 +1125,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/qifeng-wang/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%94%B3%E6%80%9D%E8%BF%9C/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/siyuan-shen/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E7%8E%8B%E7%A5%BA%E4%B8%B0/"
                 />
   </url>
@@ -553,10 +1154,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/yucai-wang/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E7%94%B3%E6%80%9D%E8%BF%9C/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%9B%9B%E4%BC%A0%E4%B8%AD/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/chuanzhong-sheng/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E7%8E%8B%E8%81%BF%E6%89%8D/"
                 />
   </url>
@@ -571,10 +1183,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/fangli-wang/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E7%9B%9B%E4%BC%A0%E4%B8%AD/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%A7%A6%E4%BA%98/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/gen-qin/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E7%8E%8B%E8%8A%B3%E9%BB%8E/"
                 />
   </url>
@@ -585,10 +1208,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/chaoqi-wang/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E7%A7%A6%E4%BA%98/"
+                />
+  </url><url>
+    <loc>/zh/author/%E8%80%BF%E6%83%A0%E8%8E%89/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/huili-geng/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E7%8E%8B%E8%B6%85%E5%A5%87/"
                 />
   </url>
@@ -603,10 +1237,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/siyuan-shen/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E8%80%BF%E6%83%A0%E8%8E%89/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E7%94%B3%E6%80%9D%E8%BF%9C/"
                 />
   </url>
@@ -617,10 +1262,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/chuanzhong-sheng/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/"
+                />
+  </url><url>
+    <loc>/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zhili-hu/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E7%9B%9B%E4%BC%A0%E4%B8%AD/"
                 />
   </url>
@@ -631,10 +1287,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/gen-qin/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E7%A7%A6%E4%BA%98/"
                 />
   </url>
@@ -645,10 +1312,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/huili-geng/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/"
+                />
+  </url><url>
+    <loc>/zh/author/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yadong-zhong/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E8%80%BF%E6%83%A0%E8%8E%89/"
                 />
   </url>
@@ -663,10 +1341,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/zhili-hu/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E9%92%9F%E4%BA%9A%E4%B8%9C/"
+                />
+  </url><url>
+    <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/"
                 />
   </url>
@@ -681,10 +1370,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/yadong-zhong/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/"
+                />
+  </url><url>
+    <loc>/zh/author/%E9%99%88%E6%80%9D%E6%98%8E/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/siming-chen/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E9%92%9F%E4%BA%9A%E4%B8%9C/"
                 />
   </url>
@@ -699,10 +1399,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/siming-chen/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E9%99%88%E6%80%9D%E6%98%8E/"
+                />
+  </url><url>
+    <loc>/zh/author/%E9%9D%96%E5%BB%BA%E5%8D%8E/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/jianhua-jing/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E9%99%88%E6%80%9D%E6%98%8E/"
                 />
   </url>
@@ -713,10 +1424,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/jianhua-jing/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E9%9D%96%E5%BB%BA%E5%8D%8E/"
+                />
+  </url><url>
+    <loc>/zh/author/%E9%A9%AC%E5%86%B0%E6%B4%81/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/bingjie-ma/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E9%9D%96%E5%BB%BA%E5%8D%8E/"
                 />
   </url>
@@ -727,10 +1449,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/bingjie-ma/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E9%A9%AC%E5%86%B0%E6%B4%81/"
+                />
+  </url><url>
+    <loc>/zh/author/%E9%AD%8F%E8%BE%BE/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/da-wei/"
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E9%A9%AC%E5%86%B0%E6%B4%81/"
                 />
   </url>
@@ -741,12 +1474,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sunbeachseayou.github.io/en/author/da-wei/"
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+<<<<<<< HEAD
+                href="/zh/author/%E9%AD%8F%E8%BE%BE/"
+                />
+  </url>
+=======
                 href="https://sunbeachseayou.github.io/zh/author/%E9%AD%8F%E8%BE%BE/"
                 />
   </url>
   
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
 </urlset>

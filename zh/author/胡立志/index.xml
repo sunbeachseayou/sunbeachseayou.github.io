@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>胡立志 | 傅剑实验室主页</title>
+<<<<<<< HEAD
+    <link>/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/</link>
+      <atom:link href="/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+    <description>胡立志</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>胡立志</title>
+      <link>/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/</link>
+=======
     <link>https://sunbeachseayou.github.io/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/</link>
       <atom:link href="https://sunbeachseayou.github.io/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
     <description>胡立志</description>
@@ -10,6 +20,7 @@
       <url>https://sunbeachseayou.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>胡立志</title>
       <link>https://sunbeachseayou.github.io/zh/author/%E8%83%A1%E7%AB%8B%E5%BF%97/</link>
+>>>>>>> 1ff21e46c76b51b96c2f81212ff9867035bec8de
     </image>
     
   </channel>
