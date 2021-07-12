@@ -1,0 +1,112 @@
++++
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
+
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Recent Publications"
+subtitle = ""
+
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "publication"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
+  
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+  
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+    
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+<!-- {{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}} -->
+
+<!-- 1. [A Method of SIFT Simplifying and Matching Algorithm Improvement](https://ieeexplore.ieee.org/document/7823496/)
+
+Xinmin Zhou;Kaiyuan Wang;Jian Fu. Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII), 2016 International Conference on: 19 January 2017 Abstract 
+
+2. [SPARK – A Big Data Processing Platform for Machine Learning](https://ieeexplore.ieee.org/document/7823490/)
+
+Jian Fu;Junwei Sun;Kaiyuan Wang. Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII), 2016 International Conference on 10.1109/ICIICII.2016.0023: 19 January 2017 Abstract 
+
+3. [An Improved LWR Based Forcing Term Learning from DMPs](https://ieeexplore.ieee.org/document/7823532/)
+
+Jian Fu; Da Wei. Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII), 2016 International Conference on: 19 January 2017 Abstract 
+
+4. [Various Robot Motor Skills Learning with PI2-GMR](https://ieeexplore.ieee.org/document/7823533/)
+
+Jian Fu；Siming Chen. Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII), 2016 International Conference on: 19 January 2017 Abstract 
+
+5. [A hybrid evolving and gradient strategy for approximating policy evaluation on online critic-actor learning](#aboutcontent)
+
+Jian Fu; Haibo He; Huiying LI; Qing Liu. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics): 2012 ,vol 7367 ,p 555-564 Abstract 
+
+6. [Adaptive Learning and Control for MIMO System Based on Adaptive Dynamic Programming](https://ieeexplore.ieee.org/document/5892895/)
+
+Jian Fu; Haibo He; Xinmin Zhou. Neural Networks, IEEE Transactions on: 16 June 2011 ,vol.22, no.7, ,pp.1133-1148 Abstract 
+
+7. [Adaptive dynamic programming with balanced weights seeking strategy](https://ieeexplore.ieee.org/document/5967373/)
+
+Jian Fu; Haibo He; Zhen Ni. Adaptive Dynamic Programming And Reinforcement Learning (ADPRL), 2011 IEEE Symposium on: 29 July 2011Abstract 
+
+8. [A Novel DS-GMR Coupled Primitive for Robotic Motion Skill Learning](https://ieeexplore.ieee.org/document/7373800/)
+
+Fu, Jian; Ning, Li; Wei, Sujuan; Zhang, Liyan. Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII), 2015 International Conference on: 3-4 Dec. 2015 ,111-115 Abstract 
+
+9. [Online learning control based on projected gradient temporal difference and advanced heuristic dynamic programming](https://ieeexplore.ieee.org/document/6889756/)
+
+Jian Fu; Sujuan Wei; Haibo He; Shengyong Wang. Neural Networks (IJCNN), 2014 International Joint Conference on: 2014/7 ,vol. 6 no.11,3649-3656 Abstract 
+
+10. [一种基于扩展有限状态机的业务流程管理的建模方法]()
+
+傅剑;马冰洁;熊沁怡;卫素娟;张俊. 专利: 2015-08-26 Abstract  -->

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>傅剑 | 傅剑实验室主页</title>
+    <link>/zh/author/%E5%82%85%E5%89%91/</link>
+      <atom:link href="/zh/author/%E5%82%85%E5%89%91/index.xml" rel="self" type="application/rss+xml" />
+    <description>傅剑</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 15 Sep 2020 21:25:49 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>傅剑</title>
+      <link>/zh/author/%E5%82%85%E5%89%91/</link>
+    </image>
+    
+    <item>
+      <title>武汉理工大学工业自动化综合实验室的设计</title>
+      <link>/zh/project/project3/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project3/</guid>
+      <description>&lt;h3 id=&#34;武汉理工大学工业自动化综合实验室的设计&#34;&gt;武汉理工大学工业自动化综合实验室的设计&lt;/h3&gt;
+&lt;p&gt;工业自动化综合实验室根据自动化学院教学任务需要而设计，以自动化课程为重点，涵盖了包括信息、电子、计算机、工业机器人在内的多个专业核心技术，满足教师和学生在教学、科研和实践中的需要。&lt;/p&gt;
+&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202629274.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; width=&#34;100%&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>武汉理工大学电路板柔性生产线设计</title>
+      <link>/zh/project/project2/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project2/</guid>
+      <description>&lt;h3 id=&#34;武汉理工大学电路板柔性生产线设计&#34;&gt;武汉理工大学电路板柔性生产线设计&lt;/h3&gt;
+&lt;p&gt;电路板柔性生产线是一套基于先进制造理念开发的用于生产电路板的智能柔性生产线，其生产过程包括智能生产、加工、装配、仓储、数字化物流跟踪等。在生产管理和物流调度软件系统方面，结合网络技术和现场总线技术，通过合理的整体计划、优化算法，使生产过程和物流跟踪变得高效、智能。&lt;/p&gt;
+&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915201508875.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; width=&#34;100%&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>自动化实验室网络平台。</title>
+      <link>/zh/project/project1/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project1/</guid>
+      <description>&lt;h3 id=&#34;自动化实验室网络平台&#34;&gt;自动化实验室网络平台&lt;/h3&gt;
+&lt;p&gt;“融合Web2.0技术，面向创新实践能力培养的自动化实验室网络平台”旨在构建具有自主知识产权的B/S结构网络平台，面向自动化学院本科生，进行创新能力培养，规范新实验教学模式。系统采用NGINX作为定向代理服务器和卷服务器，在服务器端部署应用服务器集成多种应用服务，在前端浏览器上实现静态网页、前端脚本和服务器端服务的聚合和显示。&lt;/p&gt;
+&lt;p&gt;学生们可以通过校园网访问实验室的网站系统。通过帐号和密码登录后，进入工作表，工作表负责个人测试工作和各种消息的推送。该系统没有按照传统的常规模块、专业基础实验模块、综合改进型和研究创新型实验室模块来设置模块和界面，而是根据用户的实际工作流程进行布局。在此背景下，我们将“扩展有限状态机”（国家发明专利201510323287.6）应用于流量控制。主要功能包括：测试高级控制（预览、考试、预约与讨论、提交）、通过及时沟通实现自动分组和组内讨论，以及在社区中进行创意的生发和碰撞、职务的任命与工作的分配、人员的招募与选拔、成员间的互动讨论等。教师也可以用账号和密码登录工作台，负责个人测试工作和各种消息的推送。教师的主要工作是完成本专业测试相关事项的初始化（备考内容、理论测试、问卷调查及其开放的时间、分组原则等）、小组评价、课程信息上传共享、作业评分讨论指导、定向发放，人员选择、学生节点报告、结果发布等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202420282.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; alt=&#34;project1图片1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202355157.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; alt=&#34;project1图片2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202319228.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; alt=&#34;project1图片3&#34;&gt;&lt;/p&gt;
+&lt;!-- ![project1图片1](G:\github_pages_blog\starter-academic\static\media\1.png)
+&lt;!-- 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/G:%5cgithub_pages_blog%5cstarter-academic%5cstatic%5cmedia%5c1.png&#34; data-caption=&#34;A caption&#34;&gt;
+
+
+  &lt;img src=&#34;/media/G:%5cgithub_pages_blog%5cstarter-academic%5cstatic%5cmedia%5c1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
