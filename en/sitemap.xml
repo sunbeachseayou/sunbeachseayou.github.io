@@ -264,6 +264,18 @@
                 href="/en/author/gen-qin/"
                 />
   </url><url>
+    <loc>/en/author/gengjing-wang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E7%8E%8B%E7%AB%9E%E8%80%95/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/gengjing-wang/"
+                />
+  </url><url>
     <loc>/en/author/huili-geng/</loc>
     <xhtml:link
                 rel="alternate"
@@ -358,6 +370,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/li-ning/"
+                />
+  </url><url>
+    <loc>/en/author/longxiao-li/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E6%9D%8E%E5%B0%8F%E9%BE%99/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/longxiao-li/"
+                />
+  </url><url>
+    <loc>/en/author/nan-wang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E7%8E%8B%E5%8D%97/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/nan-wang/"
                 />
   </url><url>
     <loc>/en/en/post/</loc>
@@ -498,6 +534,18 @@
                 href="/en/author/xiang-teng/"
                 />
   </url><url>
+    <loc>/en/author/xuan-zhou/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%91%A8%E7%92%87/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/xuan-zhou/"
+                />
+  </url><url>
     <loc>/en/author/yadong-zhong/</loc>
     <xhtml:link
                 rel="alternate"
@@ -570,6 +618,18 @@
                 href="/en/author/yucheng-du/"
                 />
   </url><url>
+    <loc>/en/author/yupeng-zhao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E8%B5%B5%E9%B9%8F%E5%AE%87/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yupeng-zhao/"
+                />
+  </url><url>
     <loc>/en/author/zhang-yang/</loc>
   </url><url>
     <loc>/en/authors_%E5%A4%87%E4%BB%BD/zhangyang/</loc>
@@ -609,6 +669,16 @@
                 />
   </url><url>
     <loc>/en/author/zhu-yang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E6%9D%A8%E7%AB%B9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zhu-yang/"
+                />
   </url><url>
     <loc>/en/author/zhuoruo-liu/</loc>
     <xhtml:link

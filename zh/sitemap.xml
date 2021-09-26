@@ -285,6 +285,18 @@
                 href="/zh/author/%E5%8D%AB%E7%B4%A0%E5%A8%9F/"
                 />
   </url><url>
+    <loc>/zh/author/%E5%91%A8%E7%92%87/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/xuan-zhou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%91%A8%E7%92%87/"
+                />
+  </url><url>
     <loc>/zh/author/%E5%A4%8F%E8%81%AA/</loc>
     <xhtml:link
                 rel="alternate"
@@ -395,6 +407,18 @@
                 href="/zh/author/%E6%9D%8E%E5%AA%9B%E5%AA%9B/"
                 />
   </url><url>
+    <loc>/zh/author/%E6%9D%8E%E5%B0%8F%E9%BE%99/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/longxiao-li/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E6%9D%8E%E5%B0%8F%E9%BE%99/"
+                />
+  </url><url>
     <loc>/zh/author/%E6%9D%8E%E7%BB%98%E8%8B%B1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -492,6 +516,16 @@
                 />
   </url><url>
     <loc>/zh/author/%E6%9D%A8%E7%AB%B9/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zhu-yang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E6%9D%A8%E7%AB%B9/"
+                />
   </url><url>
     <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/</loc>
     <xhtml:link
@@ -541,6 +575,18 @@
                 href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/"
                 />
   </url><url>
+    <loc>/zh/author/%E7%8E%8B%E5%8D%97/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/nan-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E7%8E%8B%E5%8D%97/"
+                />
+  </url><url>
     <loc>/zh/author/%E7%8E%8B%E5%BC%80%E5%85%83/</loc>
     <xhtml:link
                 rel="alternate"
@@ -575,6 +621,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/"
+                />
+  </url><url>
+    <loc>/zh/author/%E7%8E%8B%E7%AB%9E%E8%80%95/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/gengjing-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E7%8E%8B%E7%AB%9E%E8%80%95/"
                 />
   </url><url>
     <loc>/zh/author/%E7%8E%8B%E8%81%BF%E6%89%8D/</loc>
@@ -719,6 +777,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/"
+                />
+  </url><url>
+    <loc>/zh/author/%E8%B5%B5%E9%B9%8F%E5%AE%87/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yupeng-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E8%B5%B5%E9%B9%8F%E5%AE%87/"
                 />
   </url><url>
     <loc>/zh/author/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
