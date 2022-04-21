@@ -15,9 +15,6 @@
                 href="/en/authors/"
                 />
   </url><url>
-    <loc>/en/en/project/project2/</loc>
-    <lastmod>2020-09-15T21:25:49+08:00</lastmod>
-  </url><url>
     <loc>/en/project/project2/</loc>
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
@@ -31,9 +28,6 @@
                 href="/en/project/project2/"
                 />
   </url><url>
-    <loc>/en/en/project/project3/</loc>
-    <lastmod>2020-09-15T21:25:49+08:00</lastmod>
-  </url><url>
     <loc>/en/project/project3/</loc>
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
@@ -46,9 +40,6 @@
                 hreflang="en"
                 href="/en/project/project3/"
                 />
-  </url><url>
-    <loc>/en/en/</loc>
-    <lastmod>2020-09-15T21:25:49+08:00</lastmod>
   </url><url>
     <loc>/en/author/jian-fu/</loc>
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
@@ -75,9 +66,6 @@
                 hreflang="en"
                 href="/en/project/"
                 />
-  </url><url>
-    <loc>/en/en/project/project1/</loc>
-    <lastmod>2020-09-15T21:25:49+08:00</lastmod>
   </url><url>
     <loc>/en/project/project1/</loc>
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
@@ -228,6 +216,8 @@
                 href="/en/author/da-wei/"
                 />
   </url><url>
+    <loc>/en/en/</loc>
+  </url><url>
     <loc>/en/author/fangli-wang/</loc>
     <xhtml:link
                 rel="alternate"
@@ -298,18 +288,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/huiying-li/"
-                />
-  </url><url>
-    <loc>/en/author/jianchao-liu/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E5%88%98%E5%81%A5%E8%B6%85/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/jianchao-liu/"
                 />
   </url><url>
     <loc>/en/author/jianhua-jing/</loc>
@@ -396,8 +374,6 @@
                 href="/en/author/nan-wang/"
                 />
   </url><url>
-    <loc>/en/en/post/</loc>
-  </url><url>
     <loc>/en/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -421,8 +397,6 @@
                 hreflang="en"
                 href="/en/publication_types/"
                 />
-  </url><url>
-    <loc>/en/en/publication/</loc>
   </url><url>
     <loc>/en/publication/</loc>
     <xhtml:link
@@ -459,8 +433,6 @@
                 hreflang="en"
                 href="/en/author/qifeng-wang/"
                 />
-  </url><url>
-    <loc>/en/en/talk/</loc>
   </url><url>
     <loc>/en/talk/</loc>
     <xhtml:link
@@ -632,17 +604,7 @@
   </url><url>
     <loc>/en/author/zhang-yang/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/zhangyang/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/zhangyang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/zhangyang/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/zhangyang/</loc>
   </url><url>
     <loc>/en/author/zheling-zeng/</loc>
     <xhtml:link
@@ -692,196 +654,36 @@
                 href="/en/author/zhuoruo-liu/"
                 />
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/admin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/admin/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/admin/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/</loc>
   </url><url>
-    <loc>/en/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/"
-                />
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
   </url>
 </urlset>
