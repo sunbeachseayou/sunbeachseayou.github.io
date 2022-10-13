@@ -7,20 +7,10 @@
     <description>傅剑</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 15 Sep 2020 21:25:49 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>傅剑</title>
       <link>/zh/author/%E5%82%85%E5%89%91/</link>
     </image>
-    
-    <item>
-      <title>武汉理工大学工业自动化综合实验室的设计</title>
-      <link>/zh/project/project3/</link>
-      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
-      <guid>/zh/project/project3/</guid>
-      <description>&lt;h3 id=&#34;武汉理工大学工业自动化综合实验室的设计&#34;&gt;武汉理工大学工业自动化综合实验室的设计&lt;/h3&gt;
-&lt;p&gt;工业自动化综合实验室根据自动化学院教学任务需要而设计，以自动化课程为重点，涵盖了包括信息、电子、计算机、工业机器人在内的多个专业核心技术，满足教师和学生在教学、科研和实践中的需要。&lt;/p&gt;
-&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202629274.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; width=&#34;100%&#34;&gt;</description>
-    </item>
     
     <item>
       <title>武汉理工大学电路板柔性生产线设计</title>
@@ -30,6 +20,16 @@
       <description>&lt;h3 id=&#34;武汉理工大学电路板柔性生产线设计&#34;&gt;武汉理工大学电路板柔性生产线设计&lt;/h3&gt;
 &lt;p&gt;电路板柔性生产线是一套基于先进制造理念开发的用于生产电路板的智能柔性生产线，其生产过程包括智能生产、加工、装配、仓储、数字化物流跟踪等。在生产管理和物流调度软件系统方面，结合网络技术和现场总线技术，通过合理的整体计划、优化算法，使生产过程和物流跟踪变得高效、智能。&lt;/p&gt;
 &lt;img src=&#34;https://img-blog.csdnimg.cn/20200915201508875.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; width=&#34;100%&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>武汉理工大学工业自动化综合实验室的设计</title>
+      <link>/zh/project/project3/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project3/</guid>
+      <description>&lt;h3 id=&#34;武汉理工大学工业自动化综合实验室的设计&#34;&gt;武汉理工大学工业自动化综合实验室的设计&lt;/h3&gt;
+&lt;p&gt;工业自动化综合实验室根据自动化学院教学任务需要而设计，以自动化课程为重点，涵盖了包括信息、电子、计算机、工业机器人在内的多个专业核心技术，满足教师和学生在教学、科研和实践中的需要。&lt;/p&gt;
+&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202629274.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; width=&#34;100%&#34;&gt;</description>
     </item>
     
     <item>
@@ -83,9 +83,7 @@
 
 
 &lt;/figure&gt;
- --&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+ --&gt;</description>
     </item>
     
   </channel>

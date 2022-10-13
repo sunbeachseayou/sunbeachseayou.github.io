@@ -80,6 +80,9 @@
                 href="/en/project/project1/"
                 />
   </url><url>
+    <loc>/en/zh/</loc>
+    <lastmod>2020-09-15T21:25:49+08:00</lastmod>
+  </url><url>
     <loc>/en/</loc>
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
     <xhtml:link
@@ -93,8 +96,19 @@
                 href="/en/"
                 />
   </url><url>
+    <loc>/en/zh/project/project3/</loc>
+    <lastmod>2020-09-15T21:25:49+08:00</lastmod>
+  </url><url>
+    <loc>/en/zh/project/project2/</loc>
+    <lastmod>2020-09-15T21:25:49+08:00</lastmod>
+  </url><url>
+    <loc>/en/zh/project/project1/</loc>
+    <lastmod>2020-09-15T21:25:49+08:00</lastmod>
+  </url><url>
     <loc>/en/privacy/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>/en/zh/authors/abdoulaye-fall/</loc>
   </url><url>
     <loc>/en/author/abdoulaye-fall/</loc>
     <xhtml:link
@@ -266,6 +280,18 @@
                 href="/en/author/gengjing-wang/"
                 />
   </url><url>
+    <loc>/en/author/hange-ma/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E9%A9%AC%E5%AF%92%E6%88%88/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/hange-ma/"
+                />
+  </url><url>
     <loc>/en/author/huili-geng/</loc>
     <xhtml:link
                 rel="alternate"
@@ -362,6 +388,18 @@
                 href="/en/author/longxiao-li/"
                 />
   </url><url>
+    <loc>/en/author/menghui-xu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%BE%90%E6%A2%A6%E8%BE%89/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/menghui-xu/"
+                />
+  </url><url>
     <loc>/en/author/nan-wang/</loc>
     <xhtml:link
                 rel="alternate"
@@ -386,6 +424,8 @@
                 href="/en/post/"
                 />
   </url><url>
+    <loc>/en/zh/post/</loc>
+  </url><url>
     <loc>/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -409,6 +449,8 @@
                 hreflang="en"
                 href="/en/publication/"
                 />
+  </url><url>
+    <loc>/en/zh/publication/</loc>
   </url><url>
     <loc>/en/author/qiangxing-li/</loc>
     <xhtml:link
@@ -444,6 +486,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/talk/"
+                />
+  </url><url>
+    <loc>/en/zh/talk/</loc>
+  </url><url>
+    <loc>/en/author/shihan-chen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E9%99%88%E4%B8%96%E7%BF%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/shihan-chen/"
                 />
   </url><url>
     <loc>/en/author/siming-chen/</loc>
@@ -494,6 +550,18 @@
                 href="/en/tags/"
                 />
   </url><url>
+    <loc>/en/author/tianchen-huang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E9%BB%84%E5%A4%A9%E8%BE%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/tianchen-huang/"
+                />
+  </url><url>
     <loc>/en/author/xiang-teng/</loc>
     <xhtml:link
                 rel="alternate"
@@ -504,6 +572,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/xiang-teng/"
+                />
+  </url><url>
+    <loc>/en/author/xiaodie-ye/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%8F%B6%E5%B0%8F%E8%9D%B6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/xiaodie-ye/"
                 />
   </url><url>
     <loc>/en/author/xuan-zhou/</loc>
@@ -606,6 +686,8 @@
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/zhangyang/</loc>
   </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/zhangyang/</loc>
+  </url><url>
     <loc>/en/author/zheling-zeng/</loc>
     <xhtml:link
                 rel="alternate"
@@ -654,36 +736,160 @@
                 href="/en/author/zhuoruo-liu/"
                 />
   </url><url>
+    <loc>/en/zh/authors/yuyuan/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/admin/</loc>
+  </url><url>
+    <loc>/en/zh/authors/admin/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/admin/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/</loc>
   </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E5%81%A5%E8%B6%85/</loc>
+  </url><url>
+    <loc>/en/zh/authors/bing-liu/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E5%88%98%E8%8B%A5%E6%8B%99/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</loc>
+  </url><url>
+    <loc>/en/zh/authors/weisujuan/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E5%8F%B6%E5%B0%8F%E8%9D%B6/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E5%91%A8%E7%92%87/</loc>
+  </url><url>
+    <loc>/en/zh/authors/chong-xia/</loc>
+  </url><url>
+    <loc>/en/zh/authors/junwei-sun/</loc>
+  </url><url>
+    <loc>/en/zh/authors/li-ning/</loc>
+  </url><url>
+    <loc>/en/zh/authors/zhangyang/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E5%BE%90%E6%A2%A6%E8%BE%89/</loc>
+  </url><url>
+    <loc>/en/zh/authors/ce-cao/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
   </url><url>
+    <loc>/en/zh/authors/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E6%9D%8E%E5%85%B4%E5%BC%BA/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/</loc>
+  </url><url>
+    <loc>/en/zh/authors/yuanyuan-li/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E6%9D%8E%E5%B0%8F%E9%BE%99/</loc>
+  </url><url>
+    <loc>/en/zh/authors/lihuiying/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/</loc>
   </url><url>
+    <loc>/en/zh/authors/%E6%9D%8E%E8%81%AA/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E8%81%AA/</loc>
+  </url><url>
+    <loc>/en/zh/authors/yucheng-du/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E6%9D%9C%E7%91%BE%E7%91%9C/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%9C%E7%91%BE%E7%91%9C/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/</loc>
   </url><url>
+    <loc>/en/zh/authors/%E6%9D%A8%E5%B3%B0/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E5%B3%B0/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E6%9D%A8%E7%AB%B9/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9D%A8%E7%AB%B9/</loc>
+  </url><url>
+    <loc>/en/zh/authors/liangyingbo/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/</loc>
   </url><url>
+    <loc>/en/zh/authors/%E6%BB%95%E7%BF%94/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E6%BB%95%E7%BF%94/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E7%8E%8B%E5%8D%97/</loc>
+  </url><url>
+    <loc>/en/zh/authors/kaiyuan-wang/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E7%8E%8B%E7%A5%BA%E4%B8%B0/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E7%A5%BA%E4%B8%B0/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E7%8E%8B%E7%AB%9E%E8%80%95/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/</loc>
   </url><url>
+    <loc>/en/zh/authors/%E7%8E%8B%E8%81%BF%E6%89%8D/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%81%BF%E6%89%8D/</loc>
+  </url><url>
+    <loc>/en/zh/authors/wangfangli/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E7%8E%8B%E8%B6%85%E5%A5%87/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E7%8E%8B%E8%B6%85%E5%A5%87/</loc>
+  </url><url>
+    <loc>/en/zh/authors/siyuan-shen/</loc>
+  </url><url>
+    <loc>/en/zh/authors/shengchuanzhong/</loc>
+  </url><url>
+    <loc>/en/zh/authors/gen-qin/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/</loc>
   </url><url>
+    <loc>/en/zh/authors/%E8%80%BF%E6%83%A0%E8%8E%89/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E8%80%BF%E6%83%A0%E8%8E%89/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/</loc>
   </url><url>
+    <loc>/en/zh/authors/%E8%83%A1%E7%AB%8B%E5%BF%97/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E8%B5%B5%E9%B9%8F%E5%AE%87/</loc>
+  </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
+  </url><url>
+    <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E9%99%88%E4%B8%96%E7%BF%B0/</loc>
+  </url><url>
+    <loc>/en/zh/authors/siming-chen/</loc>
+  </url><url>
+    <loc>/en/zh/authors/jingjianhua/</loc>
+  </url><url>
+    <loc>/en/zh/authors/mabingjie/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E9%A9%AC%E5%AF%92%E6%88%88/</loc>
+  </url><url>
+    <loc>/en/zh/authors/da-wei/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E9%BB%84%E5%A4%A9%E8%BE%B0/</loc>
   </url>
 </urlset>
