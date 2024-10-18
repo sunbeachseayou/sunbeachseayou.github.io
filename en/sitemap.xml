@@ -111,8 +111,37 @@
     <loc>/en/zh/project/project4/</loc>
     <lastmod>2020-09-15T21:25:49+08:00</lastmod>
   </url><url>
+    <loc>/en/zh/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/en/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/terms/"
+                />
+  </url><url>
+    <loc>/en/zh/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>/en/privacy/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/privacy/"
+                />
   </url><url>
     <loc>/en/zh/authors/abdoulaye-fall/</loc>
   </url><url>
@@ -356,6 +385,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/junwei-sun/"
+                />
+  </url><url>
+    <loc>/en/author/junxiao-zhao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E6%9D%8E%E4%BF%8A%E9%AA%81/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/junxiao-zhao/"
                 />
   </url><url>
     <loc>/en/author/kaiyuan-wang/</loc>
@@ -706,6 +747,20 @@
                 href="/en/author/zheling-zeng/"
                 />
   </url><url>
+    <loc>/en/author/zhenglin-zhao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E8%B5%B5%E6%94%BF%E9%9C%96/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zhenglin-zhao/"
+                />
+  </url><url>
+    <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E8%B5%B5%E6%94%BF%E9%9C%96/</loc>
+  </url><url>
     <loc>/en/author/zhili-hu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -716,6 +771,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/zhili-hu/"
+                />
+  </url><url>
+    <loc>/en/author/zhilun-zou/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E9%82%B9%E5%BF%97%E4%BC%A6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zhilun-zou/"
                 />
   </url><url>
     <loc>/en/author/zhu-yang/</loc>
@@ -787,6 +854,8 @@
     <loc>/en/zh/authors/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
   </url><url>
     <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E6%9B%BE%E4%BB%A4%E5%93%B2/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E6%9D%8E%E4%BF%8A%E9%AA%81/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E6%9D%8E%E5%85%B4%E5%BC%BA/</loc>
   </url><url>
@@ -882,7 +951,11 @@
   </url><url>
     <loc>/en/zh/authors_%E5%A4%87%E4%BB%BD/%E8%83%A1%E7%AB%8B%E5%BF%97/</loc>
   </url><url>
+    <loc>/en/zh/authors/%E8%B5%B5%E6%94%BF%E9%9C%96/</loc>
+  </url><url>
     <loc>/en/zh/authors/%E8%B5%B5%E9%B9%8F%E5%AE%87/</loc>
+  </url><url>
+    <loc>/en/zh/authors/%E9%82%B9%E5%BF%97%E4%BC%A6/</loc>
   </url><url>
     <loc>/en/en/authors_%E5%A4%87%E4%BB%BD/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
   </url><url>

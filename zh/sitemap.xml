@@ -99,6 +99,32 @@
                 href="/zh/project/project1/"
                 />
   </url><url>
+    <loc>/zh/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/privacy/"
+                />
+  </url><url>
+    <loc>/zh/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/terms/"
+                />
+  </url><url>
     <loc>/zh/author/abdoulaye-fall/</loc>
     <xhtml:link
                 rel="alternate"
@@ -341,6 +367,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/author/%E6%9D%8E%E7%BB%98%E8%8B%B1/"
+                />
+  </url><url>
+    <loc>/zh/author/%E6%9D%8E%E4%BF%8A%E9%AA%81/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/junxiao-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E6%9D%8E%E4%BF%8A%E9%AA%81/"
                 />
   </url><url>
     <loc>/zh/author/%E6%9D%8E%E5%B0%8F%E9%BE%99/</loc>
@@ -727,6 +765,18 @@
                 href="/zh/author/%E8%B5%B5%E9%B9%8F%E5%AE%87/"
                 />
   </url><url>
+    <loc>/zh/author/%E8%B5%B5%E6%94%BF%E9%9C%96/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zhenglin-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E8%B5%B5%E6%94%BF%E9%9C%96/"
+                />
+  </url><url>
     <loc>/zh/author/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
     <xhtml:link
                 rel="alternate"
@@ -751,6 +801,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/author/%E5%91%A8%E7%92%87/"
+                />
+  </url><url>
+    <loc>/zh/author/%E9%82%B9%E5%BF%97%E4%BC%A6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/zhilun-zou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E9%82%B9%E5%BF%97%E4%BC%A6/"
                 />
   </url>
 </urlset>
