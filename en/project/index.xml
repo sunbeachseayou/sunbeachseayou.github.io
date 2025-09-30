@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | 傅剑实验室主页</title>
+    <link>/en/project/</link>
+      <atom:link href="/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 21:25:49 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Design of flexible production line of circuit board of Wuhan University of Technology</title>
+      <link>/en/project/project2/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/en/project/project2/</guid>
+      <description>&lt;h3 id=&#34;design-of-flexible-production-line-of-circuit-board-of-wuhan-university-of-technology&#34;&gt;Design of flexible production line of circuit board of Wuhan University of Technology.&lt;/h3&gt;
+&lt;p&gt;Flexible production line of circuit board is an intelligent flexible production line to product circuit board, which is developed based on a set of advanced manufacturing concept, the process of production includes intelligent production, processing, assembly, and warehousing, digital logistics tracking and so on.  In terms of production management and logistics scheduling software system, combined with the network technology and fieldbus technology, the production process and logistics tracking become efficient and intelligent through the reasonable plan as a whole, optimization algorithm.&lt;/p&gt;
+&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915201508875.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; width=&#34;100%&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design of WHUT industrial automation comprehensive laboratory</title>
+      <link>/en/project/project3/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/en/project/project3/</guid>
+      <description>&lt;h3 id=&#34;design-of-whut-industrial-automation-comprehensive-laboratory&#34;&gt;Design of WHUT industrial automation comprehensive laboratory&lt;/h3&gt;
+&lt;p&gt;The industrial automation comprehensive laboratory designed is customedas meeting the needs of the school of automation teaching tasks,which gives priority for automation class and covers manyprofessional core technology including information, electronics,computer, industrial robots in the field of teaching, scientificresearch and practical needs.&lt;/p&gt;
+&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202629274.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; width=&#34;100%&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>the Automation Laboratory Network Platform</title>
+      <link>/en/project/project1/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/en/project/project1/</guid>
+      <description>&lt;h3 id=&#34;the-automation-laboratory-network-platform&#34;&gt;the Automation Laboratory Network Platform.&lt;/h3&gt;
+&lt;p&gt;“The automation lab network platform fusing web 2.0 technology and facingcultivation of innovation and practice ability” aims at buildingB/S structure network platform with independent intellectual propertyrights to realize facing the training of undergraduate innovationability in school of automation and standardizing the newexperimental teaching mode. The system uses NGINX as the directionagent server and the volume server, which on server side we deploythe application server to integrate a variety of application service,and at the front end browser we implement the aggregation and displayof static web pages, front-end script and server side service.&lt;/p&gt;
+&lt;p&gt;Students can access the lab&amp;rsquo;s website system through the campusnetwork. After logging in via the account and password, they canenter the work table, which is responsible for the personal test workand the push of various messages. The system is not in accordancewith the traditions about the conventional module, professional basicexperiment module and comprehensive improvement type and researchinnovation type lab module to set the module and interface, but basedon the user&amp;rsquo;s actual workflow to layout. In the background, we apply“extended finite state machine”(national invention patent201510323287.6) for flow control.  The main functions include: testadvanced controlled (preview, examination, appointment anddiscussions, submit), automatic grouping and intra group discussionbased on the timely communication, and community based creative aggregation and recruitment, appointment and distribution,recruitment and selection, interactive discussion, and etc. The teachers can also log on to the work table with the account andpassword, which is responsible for personal test work and the push ofvarious messages.  The main work of teachers is to complete the initialization of professional test set (test preparation content,theory test, questionnaire and opening period, the grouping principle, etc.), group evaluation, curriculum information uploadingto share, discussing guidance in homework marking, making an appointment to distribution, recruitment and selection, node report,and results publishing, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202420282.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; alt=&#34;project1图片1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202355157.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; alt=&#34;project1图片2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img-blog.csdnimg.cn/20200915202319228.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzM0MzE5,size_16,color_FFFFFF,t_70#pic_center&#34; alt=&#34;project1图片3&#34;&gt;&lt;/p&gt;
+&lt;!-- ![project1图片1](G:\github_pages_blog\starter-academic\static\media\1.png)
+&lt;!-- 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/G:%5cgithub_pages_blog%5cstarter-academic%5cstatic%5cmedia%5c1.png&#34; data-caption=&#34;A caption&#34;&gt;
+
+
+  &lt;img src=&#34;/media/G:%5cgithub_pages_blog%5cstarter-academic%5cstatic%5cmedia%5c1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

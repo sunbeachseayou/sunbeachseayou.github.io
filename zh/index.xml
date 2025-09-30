@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>傅剑实验室主页</title>
+    <link>/zh/</link>
+      <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>傅剑实验室主页</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 15 Sep 2020 21:25:49 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>傅剑实验室主页</title>
+      <link>/zh/</link>
+    </image>
+    
+    <item>
+      <title>莱钢铁路道口无人自动化项目</title>
+      <link>/zh/project/project6/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project6/</guid>
+      <description>&lt;h3 id=&#34;莱钢铁路道口无人自动化项目&#34;&gt;莱钢铁路道口无人自动化项目&lt;/h3&gt;
+&lt;p&gt;​	铁路无人道口项目是一套高度自动化的交通安全保障系统，旨在通过信号控制和传感器设备的协同工作，确保火车和行人的通行安全。该系统分为两个主要部分：中控部分负责处理来自不同道口的各种自动化信号，下发命令；道口部分则是直接与现场设备进行交互，主要负责执行中控下发的控制指令。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>农业示范项目</title>
+      <link>/zh/project/project5/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project5/</guid>
+      <description>&lt;h3 id=&#34;农业示范项目&#34;&gt;农业示范项目&lt;/h3&gt;
+&lt;p&gt;简介&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>蟠龙菜项目</title>
+      <link>/zh/project/project7/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project7/</guid>
+      <description>&lt;h3 id=&#34;蟠龙菜项目&#34;&gt;蟠龙菜项目&lt;/h3&gt;
+&lt;p&gt;​	整个自动化系统由上浆、制皮、下馅、卷包、分拣、送盘、装盘7大部分组成。综合集成PLC逻辑控制、伺服电机调速定位、变频电机拖动、气动缸体动作、温度过程调节、机器人抓取/放置、机器视觉识别和定位、数据通信交换等技术，实现了机、电、气的联动。该生产线可实现类似相关食品的生产，同时可针对客户的食品加工要求进行针对性的自动化产品的研发，MES系统、MIS系统和移动APP的集成等。&lt;/p&gt;
+&lt;div class=&#34;image-grid&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;figure &gt;
+  
+  
+    &lt;a data-fancybox=&#34;&#34; href=&#34;/images/17.jpg&#34; &gt;
+  
+  
+    &lt;img src=&#34;/images/17.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;/a&gt;
+  
+  
+  
+  &lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;style&gt;
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+  margin: 20px 0;
+}
+.image-grid img {
+  width: 100%;
+  height: 200px; /* 统一高度 */
+  object-fit: cover; /* 关键属性：裁剪填充 */
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>饲喂器AIOT项目</title>
+      <link>/zh/project/project4/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project4/</guid>
+      <description>&lt;h3 id=&#34;饲喂器aiot项目&#34;&gt;饲喂器AIOT项目&lt;/h3&gt;
+&lt;p&gt;简介&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>武汉理工大学电路板柔性生产线设计</title>
+      <link>/zh/project/project2/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project2/</guid>
+      <description>&lt;h3 id=&#34;武汉理工大学电路板柔性生产线设计&#34;&gt;武汉理工大学电路板柔性生产线设计&lt;/h3&gt;
+&lt;p&gt;电路板柔性生产线是一套基于先进制造理念开发的用于生产电路板的智能柔性生产线，其生产过程包括智能生产、加工、装配、仓储、数字化物流跟踪等。在生产管理和物流调度软件系统方面，结合网络技术和现场总线技术，通过合理的整体计划、优化算法，使生产过程和物流跟踪变得高效、智能。&lt;/p&gt;
+&lt;div class=&#34;image-grid&#34;&gt;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    &lt;figure &gt;
+    
+    
+      &lt;a data-fancybox=&#34;&#34; href=&#34;/images/4.jpg&#34; &gt;
+    
+    
+      &lt;img src=&#34;/images/4.jpg&#34; alt=&#34;&#34;  &gt;
+    &lt;/a&gt;
+    
+    
+    
+    &lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;style&gt;
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+  margin: 20px 0;
+}
+.image-grid img {
+  width: 100%;
+  height: 200px; /* 统一高度 */
+  object-fit: cover; /* 关键属性：裁剪填充 */
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+&lt;/style&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>武汉理工大学工业自动化综合实验室的设计</title>
+      <link>/zh/project/project3/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project3/</guid>
+      <description>&lt;h3 id=&#34;武汉理工大学工业自动化综合实验室的设计&#34;&gt;武汉理工大学工业自动化综合实验室的设计&lt;/h3&gt;
+&lt;p&gt;工业自动化综合实验室根据自动化学院教学任务需要而设计，以自动化课程为重点，涵盖了包括信息、电子、计算机、工业机器人在内的多个专业核心技术，满足教师和学生在教学、科研和实践中的需要。&lt;/p&gt;
+&lt;div class=&#34;image-grid&#34;&gt;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    &lt;figure &gt;
+    
+    
+      &lt;a data-fancybox=&#34;&#34; href=&#34;/images/5.png&#34; &gt;
+    
+    
+      &lt;img src=&#34;/images/5.png&#34; alt=&#34;&#34;  &gt;
+    &lt;/a&gt;
+    
+    
+    
+    &lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;style&gt;
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+  margin: 20px 0;
+}
+.image-grid img {
+  width: 100%;
+  height: 200px; /* 统一高度 */
+  object-fit: cover; /* 关键属性：裁剪填充 */
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+&lt;/style&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>自动化实验室网络平台。</title>
+      <link>/zh/project/project1/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:49 +0800</pubDate>
+      <guid>/zh/project/project1/</guid>
+      <description>&lt;h3 id=&#34;自动化实验室网络平台&#34;&gt;自动化实验室网络平台&lt;/h3&gt;
+&lt;p&gt;“融合Web2.0技术，面向创新实践能力培养的自动化实验室网络平台”旨在构建具有自主知识产权的B/S结构网络平台，面向自动化学院本科生，进行创新能力培养，规范新实验教学模式。系统采用NGINX作为定向代理服务器和卷服务器，在服务器端部署应用服务器集成多种应用服务，在前端浏览器上实现静态网页、前端脚本和服务器端服务的聚合和显示。&lt;/p&gt;
+&lt;p&gt;学生们可以通过校园网访问实验室的网站系统。通过帐号和密码登录后，进入工作表，工作表负责个人测试工作和各种消息的推送。该系统没有按照传统的常规模块、专业基础实验模块、综合改进型和研究创新型实验室模块来设置模块和界面，而是根据用户的实际工作流程进行布局。在此背景下，我们将“扩展有限状态机”（国家发明专利201510323287.6）应用于流量控制。主要功能包括：测试高级控制（预览、考试、预约与讨论、提交）、通过及时沟通实现自动分组和组内讨论，以及在社区中进行创意的生发和碰撞、职务的任命与工作的分配、人员的招募与选拔、成员间的互动讨论等。教师也可以用账号和密码登录工作台，负责个人测试工作和各种消息的推送。教师的主要工作是完成本专业测试相关事项的初始化（备考内容、理论测试、问卷调查及其开放的时间、分组原则等）、小组评价、课程信息上传共享、作业评分讨论指导、定向发放，人员选择、学生节点报告、结果发布等。&lt;/p&gt;
+&lt;div class=&#34;image-grid&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;figure &gt;
+  
+  
+    &lt;a data-fancybox=&#34;&#34; href=&#34;/images/1.png&#34; &gt;
+  
+  
+    &lt;img src=&#34;/images/1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;/a&gt;
+  
+  
+  
+  &lt;/figure&gt;
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    &lt;figure &gt;
+    
+    
+      &lt;a data-fancybox=&#34;&#34; href=&#34;/images/2.jpg&#34; &gt;
+    
+    
+      &lt;img src=&#34;/images/2.jpg&#34; alt=&#34;&#34;  &gt;
+    &lt;/a&gt;
+    
+    
+    
+    &lt;/figure&gt;
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    &lt;figure &gt;
+    
+    
+      &lt;a data-fancybox=&#34;&#34; href=&#34;/images/3.jpg&#34; &gt;
+    
+    
+      &lt;img src=&#34;/images/3.jpg&#34; alt=&#34;&#34;  &gt;
+    &lt;/a&gt;
+    
+    
+    
+    &lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;style&gt;
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+  margin: 20px 0;
+}
+.image-grid img {
+  width: 100%;
+  height: 200px; /* 统一高度 */
+  object-fit: cover; /* 关键属性：裁剪填充 */
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/zh/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/zh/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/zh/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/zh/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
