@@ -467,6 +467,8 @@
   </url><url>
     <loc>/zh/authors_%E5%A4%87%E4%BB%BD/%E5%88%98%E8%8B%A5%E6%8B%99/</loc>
   </url><url>
+    <loc>/zh/author/%E5%88%98%E5%AD%90%E5%81%A5/</loc>
+  </url><url>
     <loc>/zh/author/%E9%A9%AC%E5%86%B0%E6%B4%81/</loc>
     <xhtml:link
                 rel="alternate"
@@ -617,6 +619,8 @@
                 href="/zh/author/%E7%8E%8B%E5%BC%80%E5%85%83/"
                 />
   </url><url>
+    <loc>/zh/author/%E7%8E%8B%E7%A3%8A/</loc>
+  </url><url>
     <loc>/zh/author/%E7%8E%8B%E5%8D%97/</loc>
     <xhtml:link
                 rel="alternate"
@@ -680,6 +684,8 @@
                 hreflang="zh"
                 href="/zh/author/%E9%AD%8F%E8%BE%BE/"
                 />
+  </url><url>
+    <loc>/zh/author/%E5%90%B4%E7%BE%BF/</loc>
   </url><url>
     <loc>/zh/author/%E5%A4%8F%E8%81%AA/</loc>
     <xhtml:link
@@ -763,6 +769,10 @@
                 href="/zh/author/%E4%BD%99%E6%84%BF/"
                 />
   </url><url>
+    <loc>/zh/author/%E5%BC%A0%E4%BF%8A/</loc>
+  </url><url>
+    <loc>/zh/author/%E5%BC%A0%E6%96%87%E7%BB%9F/</loc>
+  </url><url>
     <loc>/zh/author/%E5%BC%A0%E6%B4%8B/</loc>
   </url><url>
     <loc>/zh/author/%E8%B5%B5%E9%B9%8F%E5%AE%87/</loc>
@@ -788,6 +798,8 @@
                 hreflang="zh"
                 href="/zh/author/%E8%B5%B5%E6%94%BF%E9%9C%96/"
                 />
+  </url><url>
+    <loc>/zh/author/%E9%83%91%E6%98%8A%E8%BE%B0/</loc>
   </url><url>
     <loc>/zh/author/%E9%92%9F%E4%BA%9A%E4%B8%9C/</loc>
     <xhtml:link
